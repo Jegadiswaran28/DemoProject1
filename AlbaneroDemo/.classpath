@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jegadiswaran.shankar/.m2/repository/io/appium/java-client/7.5.1/java-client-7.5.1.jar" sourcepath="C:/Users/jegadiswaran.shankar/.m2/repository/io/appium/java-client/7.5.1/java-client-7.5.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.appium"/>
+			<attribute name="maven.artifactId" value="java-client"/>
+			<attribute name="maven.version" value="7.5.1"/>
+			<attribute name="maven.scope" value="runtime"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jegadiswaran.shankar/.m2/repository/io/github/bonigarcia/webdrivermanager/4.2.1/webdrivermanager-4.2.1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.bonigarcia"/>
+			<attribute name="maven.artifactId" value="webdrivermanager"/>
+			<attribute name="maven.version" value="4.2.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jegadiswaran.shankar/.m2/repository/io/github/sudharsan-selvaraj/selenium-audio-logger/1.0.0/selenium-audio-logger-1.0.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.sudharsan-selvaraj"/>
+			<attribute name="maven.artifactId" value="selenium-audio-logger"/>
+			<attribute name="maven.version" value="1.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jegadiswaran.shankar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar" sourcepath="C:/Users/jegadiswaran.shankar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.relevantcodes"/>
+			<attribute name="maven.artifactId" value="extentreports"/>
+			<attribute name="maven.version" value="2.41.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="src"/>
+</classpath>
